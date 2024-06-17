@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0aWRoNTZ1N2cwdWlvOHRjZWVkNzkxdTBqNnp4dWdmeHd1ZGpsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
 <h1 align="center">Hi 👋, I'm GABRIEL RAMBO</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Rsd2FqdDh0dDRodHQ0eDdiNzU0OXdiajBuaDFkbzF1cG8wdXZ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp")
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Rsd2FqdDh0dDRodHQ0eDdiNzU0OXdiajBuaDFkbzF1cG8wdXZ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambo0704&label=Profile%20views&color=0e75b6&style=flat" alt="rambo0704" /> </p>
 
 - 🔭 I’m currently working on [portfolio website](https://github.com/Rambo0704/PORTIFOLIO)
