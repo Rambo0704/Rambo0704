@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on [portfolio website](https://github.com/Rambo0704/PORTIFOLIO)
 
-- 🌱 I’m currently learning **Python,Java,CSS,C#**
+- 🌱 I’m currently learning **Python,Java,CSS,C,C++,C#**
 
 - 👨‍💻 All of my projects are available at [https://gabrielrambo.netlify.app](https://gabrielrambo.netlify.app)
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **HTML/CSS/C**
 
 - 📫 How to reach me **gabrielantoniorx@gmail.com**
 
-- ⚡ Fun fact **GOSTO DE TAPA**
+- ⚡ Fun fact **Yes, my last name is Rambo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
