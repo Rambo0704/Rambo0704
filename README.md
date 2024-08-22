@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0aWRoNTZ1N2cwdWlvOHRjZWVkNzkxdTBqNnp4dWdmeHd1ZGpsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
+<p width="300" >![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0aWRoNTZ1N2cwdWlvOHRjZWVkNzkxdTBqNnp4dWdmeHd1ZGpsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
 <h1 align="center">Hi 👋, I'm GABRIEL RAMBO</h1>
 <h3 align="center">A passionate frontend/backend developer from Brazil</h3>
 
