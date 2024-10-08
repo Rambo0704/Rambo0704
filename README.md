@@ -1,6 +1,6 @@
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0aWRoNTZ1N2cwdWlvOHRjZWVkNzkxdTBqNnp4dWdmeHd1ZGpsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
 <h1 align="center">Hi 👋, I'm GABRIEL RAMBO</h1>
-<h3 align="center">A passionate frontend/backend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambo0704&label=Profile%20views&color=0e75b6&style=flat" alt="rambo0704" /> </p>
 
