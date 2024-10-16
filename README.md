@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambo0704&label=Profile%20views&color=0e75b6&style=flat" alt="rambo0704" /> </p>
 
-- 🔭 I’m currently working on [portfolio website](https://github.com/Rambo0704/PORTIFOLIO)
 
-- 🌱 I’m currently learning **Python,Java,CSS,C,C++,C#**
+- 🌱 I’m currently learning **Python,Java,C,C++,C#**
 
 - 👨‍💻 All of my projects are available at [https://gabrielrambo.netlify.app](https://gabrielrambo.netlify.app)
 
