@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rambo0704&label=Profile%20views&color=0e75b6&style=flat" alt="rambo0704" /> </p>
 
-- 🌱 I’m currently learning **Python,C,C++,C#**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML/CSS,C**
+- 💬 Ask me about **C,Python**
 
 - 📫 How to reach me **gabrielantoniorx@gmail.com**
 
